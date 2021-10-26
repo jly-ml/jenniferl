@@ -1,37 +1,95 @@
-## Welcome to GitHub Pages
+<link rel="stylesheet" type="text/css" media="all" href="https://github.com/jly-ml/jenniferl/blob/gh-pages/samplecss.css" />
 
-You can use the [editor on GitHub](https://github.com/jly-ml/MLRLspace.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- Hi, I'm a comment. I can be used to leave notes for yourself and other humans about changes, progressions, instructions, anything at all really. -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- I fixed the issue with the logo. The logo is in Gif format, it can only hold 256 colors... but it can be animated, kind of 90's retro... [edit->] Gif is actually quite popular again -->
 
-### Markdown
+<div class="wrapper">
+    <div class="typing-demo">
+      Hello World! My name is Jennifer L.
+    </div>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1> </h1>
 
-```markdown
-Syntax highlighted code block
+<div class="myBorder">
+<h2>Contact Information & Quicklinks</h2>
+<a href="https://www.twitter.com/">Twitter</a>
+<a href="https://www.github.com/">GitHub</a>
+<a href="https://www.github.com/">LinkedIn</a>
+<a href="https://www.github.com/">Contact me</a>
+<a href="https://www.github.com/">Notes</a>
 
-# Header 1
-## Header 2
-### Header 3
+<br><br>
+  <img src="https://pbs.twimg.com/media/Eq_zS6uXEAAYOdK.png" alt="Self Image">
+</p>
+</div>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<h2>About Me:</h2>
+<p>
+  I graduated from California State University - Dominguez Hills in Spring 2021 with a B.S in Mathematics and Computer Science. I have always been interested in tinkering with computers. During my break from school, I found a technical support job and enjoyed the problem solving aspect alot. Eventually, I found my interest in Machine Learning & A.I. The topic garnered my interest by how similar I found the 'learning' process to my own learning methodology. 
+</p>
+<h2>Goal(s)</h2>
+<ul>
+<li>Get into research 
+ <ul>
+   <li>Read more articles surrounding(computer vision, graph neural networks, reinforcement learning) </li>
+ </ul>
+ </li>
+<li>Do more projects centered around teaching and research interests
+  <ul>
+    <li><b>"Linear Algebra & Optimization for Machine Learning" </b>by Aggarwal  </li>
+     <li>Computer Vision project with a Raspberry Pi camera </li>
 
-**Bold** and _Italic_ and `Code` text
+  </ul>
+  </li>
+ 
+</ul>
+<h1> </h1>
+<h2>Research Experience(s):</h2>
+<h4>CAHSI vREU - Summer 2021 </h4>
+<dt class ="tab">>> I got to work with Professor Bin Tang from CSUDH as my mentor. The topics explored during the program was setting the foundation for reinforcement learning, multiagent learning, and implemented the classic Q-Learning algorithm. We also worked with others to discuss ideas and to test our understanding surrounding Value functions and policies. After I implemented a modified Q-Learning algorithm in Python to mimic cooperative learning in a KxK sensor network. With this program, I got to present a research poster for the GMiS Conference(10/15/2021). My full abstract can be found <ahref="https://www.github.com/">here</a> and research poster <a href="https://www.github.com/">here</a>
+ </dt>
 
-[Link](url) and ![Image](src)
-```
+<h4>CSUDH LSAMP - Spring 2021 </h4>
+<dt class ="tab">>> My project was centered around detecting accurate heartbeats using Matlab. Profesor Wang was my LSAMP mentor and helped me become more familiar with Matlab and let me explore my own ideas on how to approach the problem. I was given the current signal fusion algorithm that helps detects heartbeats by evaluating the peaks from ECG and ABP signals. 
+  <ahref="https://www.github.com/">here</a> and research poster <a href="https://www.github.com/">here</a>
+ </dt>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h4>Resesarch Assitant- Fall 2019 </h4>
+<dt class ="tab">>> I was able to have my professor give me a peek at what research life was like. This was where I learned how to read and dissect published papers, and identify what key ideas we can potentially improve upon. I also gave presentations surrounding papers I covered. Examples can be found <ahref="https://www.github.com/">here</a>
+ </dt>
+<p>
+  <i>Please be advised that places will be limited to ticket holders only:</i> <b>One Ticket Per Atendee.</b></p>
 
-### Jekyll Themes
+<h1> </h1>
+<h2>Projects:</h2>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jly-ml/MLRLspace.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>Some Sentences</p>
+<p>
+  <i>Please be advised that places will be limited to ticket holders only:</i> <b>One Ticket Per Atendee.</b></p>
 
-### Support or Contact
+<h1> </h1>
+<h2>Work Experience:</h2>
+<p>Some Sentences</p>
+<p>
+  <i>Please be advised that places will be limited to ticket holders only:</i> <b>One Ticket Per Atendee.</b></p>
+<h1> </h1>
+<h2>Misc. Tidbits </h2>
+<p>Some other things I enjoy doing on the side. Interests can range from <i> somewhat</i> related hobbies to not at all related.</p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<dl>
+  <dt>> <b>Building PCs  </b></dt>
+  <dd>- When the occasion warrants itself, I enjoy being able to spec out & build my own PC</dd><br>
+  <dt>> <b>Video Editing</b></dt>
+  <dd>- Gets my creativity flowing. Nothing too fancy</dd><br>
+  <dt>> <b>Soldering to make my own: </b></dt>
+  <dd>- USB cables</dd>
+  <dd>- Keyboard</dd>
+  <dd>**Currently terrible at it**
+
+</dl>
+  
+</p>
+
