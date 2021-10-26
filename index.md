@@ -1,4 +1,5 @@
-<html><link src="https://github.com/jly-ml/My-Academic-Page/blob/gh-pages/samplecss.css" rel="samplecss.css">
+<html>
+    <link src="https://github.com/jly-ml/My-Academic-Page/blob/gh-pages/samplecss.css" rel="samplecss.css">
 
 
 <div class="wrapper">
