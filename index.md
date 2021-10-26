@@ -1,5 +1,5 @@
 <html>
-    <link src="https://github.com/jly-ml/My-Academic-Page/blob/gh-pages/samplecss.css" rel="samplecss.css">
+    <link src="https://github.com/jly-ml/jenniferl/blob/gh-pages/samplecss.css" rel="samplecss.css">
 
 <!-- Hi, I'm a comment. I can be used to leave notes for yourself and other humans about changes, progressions, instructions, anything at all really. -->
 
