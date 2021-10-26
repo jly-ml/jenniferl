@@ -1,5 +1,6 @@
 <html>
-  <link src="https://github.com/jly-ml/jenniferl/samplecss.css"  rel="samplecss.css">
+
+<link rel="stylesheet" href="https://github.com/jly-ml/jenniferl/samplecss.css">
 
 
 <div class="wrapper">
