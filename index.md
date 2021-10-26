@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/samplecss.css" />
+<link rel="stylesheet" href="samplecss.css" />
 
 <div class="wrapper">
     <div class="typing-demo">
