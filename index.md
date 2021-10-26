@@ -1,6 +1,6 @@
 <html>
     <head>
-       <link href="resources\css\samplecss.css" type="text/css" rel="stylesheet">
+       <link href="samplecss.css" type="text/css" rel="stylesheet">
 </head>
 
 
