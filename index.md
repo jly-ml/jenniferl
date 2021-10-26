@@ -1,6 +1,7 @@
 <html>
     <head>
-        <link rel=“stylesheet” href=“samplecss.css” /> </head>
+       <link href="resources\css\samplecss.css" type="text/css" rel="stylesheet">
+</head>
 
 
 <div class="wrapper">
