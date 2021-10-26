@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="https://github.com/jly-ml/jenniferl/blob/gh-pages/samplecss.css" />
+<link rel="stylesheet" type="text/css" media="all" href="samplecss.css" />
 
 <!-- Hi, I'm a comment. I can be used to leave notes for yourself and other humans about changes, progressions, instructions, anything at all really. -->
 
