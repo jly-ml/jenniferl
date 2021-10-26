@@ -1,12 +1,6 @@
 <html>
-<!--   <link src="https://github.com/jly-ml/jenniferl/blob/gh-pages/samplecss.css"  rel="samplecss.css">-->
-    <link rel=“stylesheet” href=“samplecss.css” />
+  <link src="https://github.com/jly-ml/jenniferl/samplecss.css"  rel="samplecss.css">
 
-
-
-<!-- Hi, I'm a comment. I can be used to leave notes for yourself and other humans about changes, progressions, instructions, anything at all really. -->
-
-<!-- I fixed the issue with the logo. The logo is in Gif format, it can only hold 256 colors... but it can be animated, kind of 90's retro... [edit->] Gif is actually quite popular again -->
 
 <div class="wrapper">
     <div class="typing-demo">
