@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="samplecss.css" />
+<html><link src="https://github.com/jly-ml/jenniferl/blob/gh-pages/samplecss.css" rel="samplecss.css">
+
 
 <div class="wrapper">
     <div class="typing-demo">
@@ -88,4 +89,4 @@
 </dl>
   
 </p>
-
+</html>
