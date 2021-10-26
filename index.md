@@ -1,8 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="samplecss.css" />
-
-<!-- Hi, I'm a comment. I can be used to leave notes for yourself and other humans about changes, progressions, instructions, anything at all really. -->
-
-<!-- I fixed the issue with the logo. The logo is in Gif format, it can only hold 256 colors... but it can be animated, kind of 90's retro... [edit->] Gif is actually quite popular again -->
+<link rel="stylesheet" href="css/samplecss.css" />
 
 <div class="wrapper">
     <div class="typing-demo">
