@@ -24,8 +24,7 @@
 
 
 <br><br>
-  <img src="https://pbs.twimg.com/media/Eq_zS6uXEAAYOdK.png" alt="Self Image">
-</p>
+  <img src="https://pbs.twimg.com/media/Eq_zS6uXEAAYOdK.png" alt="Self Image"> <br>
 </div>
 
 <h1></h1>
