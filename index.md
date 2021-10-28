@@ -128,9 +128,9 @@
 
 <dl class ="tab">
   <dt class ="tab">> <b> Building PCs  </b></dt>
-  <dd class ="tab2"> - When the occasion warrants itself, I enjoy being able to spec out & build my own PC</dd><br>
+  <dd class ="tab2"> - When the occasion warrants itself, I enjoy being able to spec out & build my own PC</dd>
   <dt class ="tab">> <b> Video Editing</b></dt>
-  <dd class ="tab2"> - Gets my creativity flowing. Nothing too fancy. </dd> <br>
+  <dd class ="tab2"> - Gets my creativity flowing. Nothing too fancy. </dd> 
   <dt class ="tab">> <b> Soldering to make my own: </b> </dt>
   <dd class ="tab2"> - USB cables </dd>
   <dd class ="tab2">- Keyboard </dd>
