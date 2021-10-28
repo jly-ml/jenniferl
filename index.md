@@ -101,9 +101,10 @@
 <h1> </h1>
 <h2 class ="tab">Work Experience:</h2> <br>
 
+ <p>
 <b class ="tab">Title: </b>Technical Support <br>
 <b class ="tab">Company:</b> Digital Watchdog<br>
-<b class ="tab">From: </b>October 2017 - June 2021<br> <br>
+<b class ="tab">From: </b>October 2017 - June 2021 </p><br> <br>
 
 <dt class ="tab2"> I helped troubleshoot different products from the company like cameras, recorders, servers, and video management software(DW Spectrum). The products ranged from consumer to enterprise level. I did some technical writings for articles to add to our Knowledge Base. I also assisnted in training for new employees learning the IP cameras, servers, and how to use and troubleshoot our software. 
  </dt>  <br>
@@ -114,9 +115,10 @@
 
 <dt class ="tab2"> I researched topics surrounding networking and machine learning. The topics specifically revolved around Virtual Machine Migration utilizing Reinforcement learning techniques.
  </dt>  <br>
+<p>
 <b class ="tab">Title:</b>   Student Assistant <br>
 <b class ="tab">Company:</b> CSU-Dominguez Hills <br>
-<b class ="tab">From: </b>   January 2019 - May 2019 <br>
+<b class ="tab">From: </b>   January 2019 - May 2019 </p><br>
  <br>
 <dt class ="tab2"> I was a student assistant for a Data Structures class at CSUDH. I helped with grading students' homeowrk and providing feedback. The main language for this course was Java.
  </dt>  <br>
