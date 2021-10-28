@@ -27,7 +27,9 @@ h4{font-family: monospace;}
 p{font-family: monospace;}
 li{font-family: monospace;}
 dd{font-family: monospace;}
-dt{font-family: monospace;}
+dt{font-family: monospace;
+b{font-family: monospace;}
+}
 
 img {
   display: block;
