@@ -126,6 +126,7 @@
 <h2 class ="tab">Misc. Tidbits </h2>
 <p class ="tab">Some other things I enjoy doing on the side. Interests can range from <i> somewhat </i> related hobbies to not at all related. </p>
 
+ <p>
 <dl class ="tab">
   <dt class ="tab">> <b> Building PCs  </b></dt>
   <dd class ="tab2"> - When the occasion warrants itself, I enjoy being able to spec out & build my own PC</dd>
@@ -135,7 +136,7 @@
   <dd class ="tab2"> - USB cables </dd>
   <dd class ="tab2">- Keyboard </dd>
    <dd class ="tab2"> **Currently terrible at it** </dd>
-    </dl>
+    </dl> </p>
     </div>
 
 
