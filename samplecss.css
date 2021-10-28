@@ -17,8 +17,8 @@ body {
 h1 {
   text-align: center;
   font-family: monospace;
-  border-bottom: 3px solid #000080;
-  border-color: color: #000080;
+  border-bottom: 3px solid;
+  border-color: #000080;
 }
 
 h2 {
