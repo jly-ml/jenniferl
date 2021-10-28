@@ -136,7 +136,6 @@
   <dd class ="tab2">- Keyboard </dd>
    <dd class ="tab2"> **Currently terrible at it** </dd>
     </dl>
-    </p>
     </div>
 
 
