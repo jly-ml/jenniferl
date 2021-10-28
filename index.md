@@ -136,13 +136,9 @@
   <dd class ="tab2">- USB cables</dd>
   <dd class ="tab2">- Keyboard</dd>
   <dd class ="tab2">**Currently terrible at it**
-
-</dl>
-  
-</p>
-
-</div>
-
+    </dl>
+    </p>
+    </div>
 
 
 </html>
