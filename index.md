@@ -32,22 +32,24 @@
 <p class ="tab">
   I graduated from California State University - Dominguez Hills in Spring 2021 with a B.S in Mathematics and Computer Science. I have always been interested in tinkering with computers. During my break from school, I found a technical support job and enjoyed the problem solving aspect alot. Eventually, I found my interest in Machine Learning & A.I. The topic garnered my interest by how similar I found the 'learning' process to my own learning methodology. After graduating, I wanted to continue working in research surrouding Machine Learning. Currently, I work as a Presales engineer. In my freetime, I like to browse 'tech twitter' for paper recommendations, projects to reverse engineer, and fun facts about the languages I'm interested in. I hope to be an expert in a field that I can forward over to others to learn from as well! 
 </p>
-<h2 class ="tab">Goal(s)</h2>
+<h2 class ="tab">Goal(short-long)</h2>
 <ul>
 <li class ="tab">Get into research 
  <ul>
    <li>Read more articles surrounding(computer vision, graph neural networks, reinforcement learning) </li>
+   <li>Implement more projects surrounding graph neural networks </li>
+
  </ul>
  </li><br>
 <li class ="tab">Do more projects centered around teaching and research interests
   <ul>
     <li><b>"Linear Algebra & Optimization for Machine Learning" </b>by Aggarwal  </li>
      <li>Computer Vision project with a Raspberry Pi camera </li>
+     <li> Provide summary & notes of textbooks (Twitch, YouTube, & Websites) </li>
 
   </ul>
-  </li>
- 
-</ul>
+
+</ul><br>
 <h1> </h1>
 <h2 class ="tab">Research Experience(s):</h2>
 <h4 class ="tab">CAHSI vREU - Summer 2021 </h4>
