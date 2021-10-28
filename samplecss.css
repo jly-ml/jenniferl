@@ -1,3 +1,7 @@
+html *
+{  font-family: monospace !important;
+}
+
 .tab { margin-left: 40px; }
 .tab2 { margin-left: 70px; }
 a{color: #000080;}
