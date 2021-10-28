@@ -125,17 +125,17 @@
 
 <h1> </h1>
 <h2 class ="tab">Misc. Tidbits </h2>
-<p class ="tab">Some other things I enjoy doing on the side. Interests can range from <i> somewhat</i> related hobbies to not at all related.</p>
+<p class ="tab">Some other things I enjoy doing on the side. Interests can range from <i> somewhat </i> related hobbies to not at all related. </p>
 
 <dl class ="tab">
-  <dt class ="tab">> <b>Building PCs  </b></dt>
-  <dd class ="tab2">- When the occasion warrants itself, I enjoy being able to spec out & build my own PC</dd><br>
-  <dt class ="tab">> <b>Video Editing</b></dt>
-  <dd class ="tab2">- Gets my creativity flowing. Nothing too fancy.</dd><br>
-  <dt class ="tab">> <b>Soldering to make my own: </b></d>
-  <dd class ="tab2">- USB cables</dd>
-  <dd class ="tab2">- Keyboard</dd>
-  <dd class ="tab2">**Currently terrible at it**
+  <dt class ="tab">> <b> Building PCs  </b></dt>
+  <dd class ="tab2"> - When the occasion warrants itself, I enjoy being able to spec out & build my own PC</dd><br>
+  <dt class ="tab">> <b> Video Editing</b></dt>
+  <dd class ="tab2"> - Gets my creativity flowing. Nothing too fancy. </dd> <br>
+  <dt class ="tab">> <b> Soldering to make my own: </b> </d>
+  <dd class ="tab2"> - USB cables </dd>
+  <dd class ="tab2">- Keyboard </dd>
+  <dd class ="tab2"> **Currently terrible at it**
     </dl>
     </p>
     </div>
