@@ -77,6 +77,7 @@
 <h1> </h1>
 <h2 class ="tab">Education & Relevant Coursework:</h2>
 <h4 class = "tab">[Undergraduate Degree(s)]: </h4>
+    <p>
 <b class ="tab">Degree:</b> B.S in Mathematics <br>
 <b class ="tab">School:</b> California State University - Dominguez Hills <br>
 <b class ="tab">Graduated:</b> May 2021 <br> 
@@ -88,7 +89,7 @@
 <b class ="tab">Cumulative GPA:</b> 3.4 <br> <br>
 
 <i class ="tab"> NOTE: I am interested in pursuing a Ph.D coming Fall 2023 </i> <br><br>
-<b class ="tab">[Relevant Courswork]:</b>  
+        <b class ="tab">[Relevant Courswork]:</b>   </p>
 <ul class= "tab">
   <li>Artificial Intelligence</li>
   <li>Machine Learning in R</li>
