@@ -1,5 +1,6 @@
 .tab { margin-left: 40px; }
 .tab2 { margin-left: 70px; }
+a{#000080;}
 
 body {
   background: #A8A8A8;
@@ -19,12 +20,12 @@ h1 {
 h2 {
   color: #208c71;
   font-family: monospace;
-  font-size: 2m;  
+  font-size: 2em;  
   margin-bottom: 1px
   
 }
 h4{font-family: monospace;}
-p{font-family: monospace;  }
+p{font-family: monospace; font-size:1.6em;}
 li{font-family: monospace;}
 dd{font-family: monospace; }
 dt{font-family: monospace;  }
