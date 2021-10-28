@@ -1,7 +1,7 @@
 <html>
     <head>
        <link href="samplecss.css" type="text/css" rel="stylesheet">
-</head>
+    </head>
 
 
 
@@ -131,10 +131,10 @@
   <dd class ="tab2"> - When the occasion warrants itself, I enjoy being able to spec out & build my own PC</dd><br>
   <dt class ="tab">> <b> Video Editing</b></dt>
   <dd class ="tab2"> - Gets my creativity flowing. Nothing too fancy. </dd> <br>
-  <dt class ="tab">> <b> Soldering to make my own: </b> </d>
+  <dt class ="tab">> <b> Soldering to make my own: </b> </dt>
   <dd class ="tab2"> - USB cables </dd>
   <dd class ="tab2">- Keyboard </dd>
-  <dd class ="tab2"> **Currently terrible at it**
+   <dd class ="tab2"> **Currently terrible at it** </dd>
     </dl>
     </p>
     </div>
