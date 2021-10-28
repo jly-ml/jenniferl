@@ -107,10 +107,10 @@
 
 <dt class ="tab2"> I helped troubleshoot different products from the company like cameras, recorders, servers, and video management software(DW Spectrum). The products ranged from consumer to enterprise level. I did some technical writings for articles to add to our Knowledge Base. I also assisnted in training for new employees learning the IP cameras, servers, and how to use and troubleshoot our software. 
  </dt>  <br>
-
+<p>
 <b class ="tab">Title:</b> Research Assistant <br>
 <b class ="tab">Company:</b> CSU-Dominguez Hills <br>
-<b class ="tab">From:</b> January 2019 - May 2019 <br> <br>
+<b class ="tab">From:</b> January 2019 - May 2019 </p><br> <br>
 
 <dt class ="tab2"> I researched topics surrounding networking and machine learning. The topics specifically revolved around Virtual Machine Migration utilizing Reinforcement learning techniques.
  </dt>  <br>
