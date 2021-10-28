@@ -23,7 +23,14 @@ h2 {
   margin-bottom: 1px
   
 }
+h4{
+    font-family: monospace;
 
+}
+p{
+    font-family: monospace;
+
+}
 img {
   display: block;
   margin: 0 auto;
