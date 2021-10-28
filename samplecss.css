@@ -2,7 +2,7 @@
 .tab2 { margin-left: 70px; }
 
 body {
-  background: #A8A8A8		;
+  background: #A8A8A8;
   margin: 3%;
   font-size: 1.6em;
   font-family: monospace;
@@ -19,17 +19,16 @@ h1 {
 h2 {
   color: #208c71;
   font-family: monospace;
-  font-size: 1.4em;  
+  font-size: 2m;  
   margin-bottom: 1px
   
 }
-h4{font-family: monospace;}
-p{font-family: monospace;}
-li{font-family: monospace;}
-dd{font-family: monospace;}
-dt{font-family: monospace;
-b{font-family: monospace;}
-}
+h4{font-family: monospace;  font-size: 1.6em;}
+p{font-family: monospace;  font-size: 1.6em;}
+li{font-family: monospace;  font-size: 1.6em;}
+dd{font-family: monospace;  font-size: 1.6em;}
+dt{font-family: monospace;  font-size: 1.6em;}
+b{font-family: monospace;  font-size: 1.6em;}
 
 img {
   display: block;
