@@ -23,14 +23,12 @@ h2 {
   margin-bottom: 1px
   
 }
-h4{
-    font-family: monospace;
+h4{font-family: monospace;}
+p{font-family: monospace;}
+li{font-family: monospace;}
+dd{font-family: monospace;}
+dt{font-family: monospace;}
 
-}
-p{
-    font-family: monospace;
-
-}
 img {
   display: block;
   margin: 0 auto;
