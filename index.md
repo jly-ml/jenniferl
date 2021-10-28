@@ -57,7 +57,7 @@
 
 
 <h4 class ="tab">CSUDH LSAMP - Spring 2021 </h4>
-<dt class ="tab2">>> My project was centered around detecting accurate heartbeats using Matlab. Profesor Wang was my LSAMP mentor and helped me become more familiar with Matlab and let me explore my own ideas on how to approach the problem. I was given the current signal fusion algorithm that helps detects heartbeats by evaluating the peaks from ECG and ABP signals. 
+<dt class ="tab2">>> My project was centered around detecting accurate heartbeats using Matlab. Profesor Wang was my LSAMP mentor and helped me become more familiar with Matlab and let me explore my own ideas on how to approach the problem. I was given the current signal fusion algorithm that helps detects heartbeats by evaluating the peaks from ECG and ABP signals.  </dt>
 
 
 <h4 class ="tab">Resesarch Assistant- Fall 2019 </h4>
