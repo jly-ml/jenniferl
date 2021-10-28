@@ -49,7 +49,7 @@
 
   </ul>
 
-</ul><br>
+</li><br>
 <h1> </h1>
 <h2 class ="tab">Research Experience(s):</h2>
 <h4 class ="tab">CAHSI vREU - Summer 2021 </h4>
